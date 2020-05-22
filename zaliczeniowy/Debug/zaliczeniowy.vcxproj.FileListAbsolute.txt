@@ -1,0 +1,3 @@
+C:\Users\kubek\source\repos\zaliczeniowy\zaliczeniowy\Debug\zaliczeniowy.vcxprojAssemblyReference.cache
+C:\Users\kubek\source\repos\zaliczeniowy\zaliczeniowy\Debug\zaliczeniowy.MyForm.resources
+C:\Users\kubek\source\repos\zaliczeniowy\zaliczeniowy\Debug\zaliczeniowy.vcxproj.GenerateResource.cache
